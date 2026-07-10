@@ -1,0 +1,14 @@
+{
+  "id": "calendar-pro",
+  "name": "Calendar Pro 📅",
+  "version": "2.0.36",
+  "minAppVersion": "1.5.7",
+  "description": "Calendar management system.",
+  "author": "YiBing Lin",
+  "authorUrl": "https://blog.lifeos.vip",
+  "fundingUrl": "https://lifeos.vip",
+  "hash": "QMxYTO4UzN",
+  "isDesktopOnly": false,
+  "fullHash": "3fd09bd7d70db1495475bba2dc0e7e7d",
+  "checksum": "40318905"
+}

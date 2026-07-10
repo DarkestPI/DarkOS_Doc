@@ -1,0 +1,8 @@
+{
+  "templateId": "para",
+  "templateVersion": "1.0.0",
+  "agentProfile": "para",
+  "requiredSkills": [
+    "lifeos"
+  ]
+}

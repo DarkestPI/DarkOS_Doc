@@ -1,0 +1,14 @@
+{
+  "id": "deep-ask",
+  "name": "DeepAsk AI 🔍",
+  "version": "2.0.33",
+  "minAppVersion": "1.5.7",
+  "description": "DeepAsk is a plugin that allows you to ask questions to the AI.",
+  "author": "YiBing Lin",
+  "authorUrl": "https://blog.lifeos.vip",
+  "fundingUrl": "https://lifeos.vip",
+  "hash": "ATN3EzN0QTM",
+  "isDesktopOnly": false,
+  "fullHash": "a5e450a290ed6ffc20fc68b01eceb127",
+  "checksum": "785436dc"
+}

@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "37a4ece0ae44376a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1e9792009f8039b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c68153d3e1681034",
+            "type": "leaf",
+            "state": {
+              "type": "lifeos-pro-home",
+              "state": {},
+              "icon": "home",
+              "title": "LifeOS 主页"
+            }
+          },
+          {
+            "id": "ba58ee5b77e9b9a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 项目/README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "033576a6b33dff69",
+    "type": "split",
+    "children": [
+      {
+        "id": "d80b12b7817209fd",
+        "type": "tabs",
+        "dimension": 35.96491228070175,
+        "children": [
+          {
+            "id": "add855173d42d2d9",
+            "type": "leaf",
+            "state": {
+              "type": "lifeos-pro-create-note",
+              "state": {},
+              "icon": "file-plus",
+              "title": "LifeOS 笔记创建表单"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bbba31aed4d15388",
+        "type": "tabs",
+        "dimension": 64.03508771929825,
+        "children": [
+          {
+            "id": "318abbbcd7749f6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cc8540b919f4ee67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e2f9ecf537a853a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "9b78bc0e4508fc3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386.5
+  },
+  "right": {
+    "id": "e909704c2c67d329",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d590967b738185b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfe60a9c435028cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "6d086e2d3fce45ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. 项目/个人品牌-WOT-分享会/往届主题.md"
+              },
+              "icon": "lucide-list",
+              "title": "往届主题 的大纲"
+            }
+          },
+          {
+            "id": "fdf26b19b598132b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. 项目/个人品牌-WOT-分享会/往届主题.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "往届主题 的反向链接列表"
+            }
+          },
+          {
+            "id": "14a387d228e8b0a8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "47c0db72dd602e1e",
+            "type": "leaf",
+            "state": {
+              "type": "lifeos-pro-task-manager",
+              "state": {},
+              "icon": "circle-check-big",
+              "title": "LifeOS 任务管理"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "fuzzy-chinese-pinyin:FuzzySearch": false,
+      "lifeos-pro:LifeOS 笔记创建表单": false,
+      "lifeos-pro:LifeOS 大日历": false,
+      "lifeos-pro:LifeOS 主页": false,
+      "lifeos-pro:LifeOS 任务管理": false,
+      "lifeos-pro:LifeOS 番茄时钟": false,
+      "deep-ask:Deep Ask AI Chat": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "lifeos-pro:LifeOS Memos 同步": false
+    }
+  },
+  "active": "318abbbcd7749f6f",
+  "lastOpenFiles": [
+    "DarkOS_Note",
+    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/IOMMU/Rockchip_Developer_Guide_Linux_IOMMU_CN.pdf",
+    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/IOMMU",
+    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/IO-DOMAIN/Rockchip_Developer_Guide_Linux_IO_DOMAIN_CN.pdf",
+    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/IO-DOMAIN",
+    "1. 项目/Template.md",
+    "-1. 捕获/README.md",
+    "README.md",
+    "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615151458.png",
+    "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615151306.png",
+    "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615144351.png",
+    "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615144528.png",
+    "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615144511.png",
+    "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615142853.png",
+    "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615142917.png",
+    "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615142714.png",
+    "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615142525.png",
+    "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615142355.png",
+    "3. 资源/软考——系统架构设计师/考试介绍.md",
+    "3. 资源/软考——系统架构设计师/resource",
+    "3. 资源/软考——系统架构设计师/2. 结构化分析与设计.md",
+    "3. 资源/软考——系统架构设计师/1. 软件工程基础.md",
+    "3. 资源/软考——系统架构设计师",
+    "3. 资源/创业/介绍.md",
+    "3. 资源/创业",
+    "3. 资源/摄影摄像/摄影摄像.README.md",
+    "3. 资源/摄影摄像",
+    "2. 领域/004_嵌入式硬件开发/SD卡与TF卡硬件电路设计.md",
+    "2. 领域/004_嵌入式硬件开发/resource",
+    "2. 领域/004_嵌入式硬件开发/004_嵌入式硬件开发.README.md",
+    "2. 领域/004_嵌入式硬件开发",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/视频防抖/IMU积分算法通读及说明.md",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/5. 嵌入式音视频开发/交叉编译第三方库.md",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/5. 嵌入式音视频开发/MIPI CSI-2 规范深度分析.md",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/2. FFmpeg 开发/1. FFmpeg 基础.md",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/1. 音视频开发基础/1.3 流媒体协议.md",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/1. 音视频开发基础/1.2 压缩与编码.md",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/1. 音视频开发基础/1.1 音视频基础知识.md",
+    "2. 领域/003_嵌入式应用开发/9. 开发工具的使用/SVN 客户端安装与常用操作.md",
+    "2. 领域/003_嵌入式应用开发/9. 开发工具的使用/Git、Repo 项目管理工具.md",
+    "2. 领域/003_嵌入式应用开发/1. Linux 应用编程基础/Linux 多进程 IPC 通信.md",
+    "2. 领域/003_嵌入式应用开发/003_嵌入式应用开发.README.md",
+    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/RV1126B/RV1126B_Linux6.1_SDK_Note.md",
+    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/NPU/rknpu2/WSL中使用RKNN_ToolKit2.md",
+    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/NPU/rknpu2/RKNNToolKit2_API_Difference_With_Toolkit1-2.3.2.md",
+    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/NPU/rknpu2/rknn_server_proxy.md",
+    "主页.canvas",
+    "未命名.canvas",
+    "1. 项目/个人品牌-LifeOS-录制上手视频/视频教程大纲.canvas",
+    "2. 主题/个人品牌-LifeOS-录制上手视频/视频教程大纲.canvas",
+    "HOME.canvas",
+    "Templates/HOME.canvas",
+    "hello/HOME.canvas",
+    "hello/Templates/HOME.canvas"
+  ]
+}

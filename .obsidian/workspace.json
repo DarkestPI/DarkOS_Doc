@@ -4,45 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c1e9792009f8039b",
+        "id": "59230a2b825eacd0",
         "type": "tabs",
         "children": [
           {
-            "id": "c68153d3e1681034",
+            "id": "0d86e50b6994ac7b",
             "type": "leaf",
             "state": {
-              "type": "lifeos-pro-home",
+              "type": "empty",
               "state": {},
-              "icon": "home",
-              "title": "LifeOS 主页"
-            }
-          },
-          {
-            "id": "ba58ee5b77e9b9a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 项目/README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,12 +212,14 @@
       "deep-ask:Deep Ask AI Chat": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false,
-      "lifeos-pro:LifeOS Memos 同步": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "318abbbcd7749f6f",
+  "active": "0d86e50b6994ac7b",
   "lastOpenFiles": [
+    "-1. 捕获/Excalidraw/rv1126b_dts.md",
+    "-1. 捕获/Excalidraw/Drawing 2026-06-01 20.25.30.excalidraw.md",
+    "1. 项目/README.md",
     "DarkOS_Note",
     "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/IOMMU/Rockchip_Developer_Guide_Linux_IOMMU_CN.pdf",
     "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/IOMMU",
@@ -273,7 +250,6 @@
     "2. 领域/004_嵌入式硬件开发/SD卡与TF卡硬件电路设计.md",
     "2. 领域/004_嵌入式硬件开发/resource",
     "2. 领域/004_嵌入式硬件开发/004_嵌入式硬件开发.README.md",
-    "2. 领域/004_嵌入式硬件开发",
     "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/视频防抖/IMU积分算法通读及说明.md",
     "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/5. 嵌入式音视频开发/交叉编译第三方库.md",
     "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/5. 嵌入式音视频开发/MIPI CSI-2 规范深度分析.md",
@@ -287,8 +263,6 @@
     "2. 领域/003_嵌入式应用开发/003_嵌入式应用开发.README.md",
     "2. 领域/002_嵌入式Linux内核开发/RK-Docs/RV1126B/RV1126B_Linux6.1_SDK_Note.md",
     "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/NPU/rknpu2/WSL中使用RKNN_ToolKit2.md",
-    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/NPU/rknpu2/RKNNToolKit2_API_Difference_With_Toolkit1-2.3.2.md",
-    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/NPU/rknpu2/rknn_server_proxy.md",
     "主页.canvas",
     "未命名.canvas",
     "1. 项目/个人品牌-LifeOS-录制上手视频/视频教程大纲.canvas",

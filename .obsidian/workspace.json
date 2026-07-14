@@ -11,13 +11,52 @@
             "id": "0d86e50b6994ac7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/文件系统类型&分区格式.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "文件系统类型&分区格式"
+            }
+          },
+          {
+            "id": "4e92834826e43be2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/文件系统类型&分区格式.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "文件系统类型&分区格式"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,10 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 项目/个人品牌-WOT-分享会/往届主题.md"
+                "file": "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/文件系统类型&分区格式.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "往届主题 的大纲"
+              "title": "文件系统类型&分区格式 的大纲"
             }
           },
           {
@@ -184,14 +226,23 @@
               "icon": "circle-check-big",
               "title": "LifeOS 任务管理"
             }
+          },
+          {
+            "id": "5a9dfb3fb72685af",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,8 +266,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d86e50b6994ac7b",
+  "active": "4e92834826e43be2",
   "lastOpenFiles": [
+    "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/resource/Pasted image 20260714221025.png",
+    "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/文件系统类型&分区格式.md",
+    "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/resource",
+    "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/a81f980be92bde96f02844b89b61082f.png",
+    "2. 领域/001_嵌入式操作系统开发/001_嵌入式操作系统开发.README.md",
     "-1. 捕获/Excalidraw/rv1126b_dts.md",
     "-1. 捕获/Excalidraw/Drawing 2026-06-01 20.25.30.excalidraw.md",
     "1. 项目/README.md",
@@ -236,8 +292,6 @@
     "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615142853.png",
     "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615142917.png",
     "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615142714.png",
-    "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615142525.png",
-    "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615142355.png",
     "3. 资源/软考——系统架构设计师/考试介绍.md",
     "3. 资源/软考——系统架构设计师/resource",
     "3. 资源/软考——系统架构设计师/2. 结构化分析与设计.md",
@@ -248,7 +302,6 @@
     "3. 资源/摄影摄像/摄影摄像.README.md",
     "3. 资源/摄影摄像",
     "2. 领域/004_嵌入式硬件开发/SD卡与TF卡硬件电路设计.md",
-    "2. 领域/004_嵌入式硬件开发/resource",
     "2. 领域/004_嵌入式硬件开发/004_嵌入式硬件开发.README.md",
     "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/视频防抖/IMU积分算法通读及说明.md",
     "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/5. 嵌入式音视频开发/交叉编译第三方库.md",
@@ -260,9 +313,6 @@
     "2. 领域/003_嵌入式应用开发/9. 开发工具的使用/SVN 客户端安装与常用操作.md",
     "2. 领域/003_嵌入式应用开发/9. 开发工具的使用/Git、Repo 项目管理工具.md",
     "2. 领域/003_嵌入式应用开发/1. Linux 应用编程基础/Linux 多进程 IPC 通信.md",
-    "2. 领域/003_嵌入式应用开发/003_嵌入式应用开发.README.md",
-    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/RV1126B/RV1126B_Linux6.1_SDK_Note.md",
-    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/NPU/rknpu2/WSL中使用RKNN_ToolKit2.md",
     "主页.canvas",
     "未命名.canvas",
     "1. 项目/个人品牌-LifeOS-录制上手视频/视频教程大纲.canvas",

@@ -5,7 +5,7 @@
   "foldIndent": true,
   "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./resource",
   "legacyEditor": false,
   "livePreview": true,
   "promptDelete": false,

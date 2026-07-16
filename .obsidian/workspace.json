@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/文件系统类型&分区格式.md",
+                "file": "1. 项目/兆晟_HM2/兆晟_HM2.README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "文件系统类型&分区格式"
-            }
-          },
-          {
-            "id": "4e92834826e43be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/文件系统类型&分区格式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "文件系统类型&分区格式"
+              "title": "兆晟_HM2.README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/文件系统类型&分区格式.md",
+                "file": "1. 项目/兆晟_HM2/兆晟_HM2.README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "文件系统类型&分区格式 的大纲"
+              "title": "兆晟_HM2.README 的大纲"
             }
           },
           {
@@ -218,16 +193,6 @@
             }
           },
           {
-            "id": "47c0db72dd602e1e",
-            "type": "leaf",
-            "state": {
-              "type": "lifeos-pro-task-manager",
-              "state": {},
-              "icon": "circle-check-big",
-              "title": "LifeOS 任务管理"
-            }
-          },
-          {
             "id": "5a9dfb3fb72685af",
             "type": "leaf",
             "state": {
@@ -235,6 +200,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "bba033a246465630",
+            "type": "leaf",
+            "state": {
+              "type": "deep-ask-ai-chat",
+              "state": {},
+              "icon": "brain-circuit",
+              "title": "Deep Ask AI Chat"
             }
           }
         ],
@@ -266,10 +241,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e92834826e43be2",
+  "active": "0d86e50b6994ac7b",
   "lastOpenFiles": [
-    "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/resource/Pasted image 20260714221025.png",
+    "0. 周期笔记/2026/Daily/07/2026-07-25.md",
     "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/文件系统类型&分区格式.md",
+    "1. 项目/兆晟_D6P/一、项目基础信息.md",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/4. WebRTC 开发/REDAME.md",
+    "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/resource/Pasted image 20260714221025.png",
     "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/resource",
     "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/a81f980be92bde96f02844b89b61082f.png",
     "2. 领域/001_嵌入式操作系统开发/001_嵌入式操作系统开发.README.md",
@@ -311,8 +289,6 @@
     "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/1. 音视频开发基础/1.2 压缩与编码.md",
     "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/1. 音视频开发基础/1.1 音视频基础知识.md",
     "2. 领域/003_嵌入式应用开发/9. 开发工具的使用/SVN 客户端安装与常用操作.md",
-    "2. 领域/003_嵌入式应用开发/9. 开发工具的使用/Git、Repo 项目管理工具.md",
-    "2. 领域/003_嵌入式应用开发/1. Linux 应用编程基础/Linux 多进程 IPC 通信.md",
     "主页.canvas",
     "未命名.canvas",
     "1. 项目/个人品牌-LifeOS-录制上手视频/视频教程大纲.canvas",

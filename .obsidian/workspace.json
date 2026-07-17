@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 项目/兆晟_RV1126B_智瞳/IPC统一软件框架架构设计.md",
+                "file": "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/文件系统类型&分区格式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IPC统一软件框架架构设计"
+              "title": "文件系统类型&分区格式"
+            }
+          },
+          {
+            "id": "4e92834826e43be2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/文件系统类型&分区格式.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "文件系统类型&分区格式"
+            }
+          },
+          {
+            "id": "139be50f88c1b717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 领域/001_嵌入式操作系统开发/001_嵌入式操作系统开发.README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "001_嵌入式操作系统开发.README"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 项目/兆晟_RV1126B_智瞳/IPC统一软件框架架构设计.md",
+                "file": "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/文件系统类型&分区格式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "IPC统一软件框架架构设计 的大纲"
+              "title": "文件系统类型&分区格式 的大纲"
             }
           },
           {
@@ -193,6 +242,16 @@
             }
           },
           {
+            "id": "47c0db72dd602e1e",
+            "type": "leaf",
+            "state": {
+              "type": "lifeos-pro-task-manager",
+              "state": {},
+              "icon": "circle-check-big",
+              "title": "LifeOS 任务管理"
+            }
+          },
+          {
             "id": "5a9dfb3fb72685af",
             "type": "leaf",
             "state": {
@@ -201,23 +260,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "bba033a246465630",
-            "type": "leaf",
-            "state": {
-              "type": "deep-ask-ai-chat",
-              "state": {},
-              "icon": "brain-circuit",
-              "title": "Deep Ask AI Chat"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,54 +290,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d86e50b6994ac7b",
+  "active": "318abbbcd7749f6f",
   "lastOpenFiles": [
+    "2. 领域/004_嵌入式硬件开发/硬件 EDA 工具/立创 EDA 工具.md",
+    "2. 领域/004_嵌入式硬件开发/硬件 EDA 工具",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/电源电路设计/电源防反接电路.md",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/电源电路设计/电源切换电路.md",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/电源电路设计/电压基准源电路.md",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/隔离与防护/接口ESD防护电路.md",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/隔离与防护/光耦隔离电路.md",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/隔离与防护/小电压控制大电压电路.md",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/隔离与防护/PWM转DAC电路.md",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/时钟与开关控制/长按开关机电路.md",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/时钟与开关控制/晶振电路设计.md",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/时钟与开关控制/基于施密特触发器的按键消抖方式（以74HC14D为例）.md",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/信号检测与转换/电流检测电路.md",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/电源电路设计",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/隔离与防护",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/时钟与开关控制",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/信号检测与转换",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计/SD卡与TF卡硬件电路设计.md",
+    "2. 领域/004_嵌入式硬件开发/常用电子电路设计",
+    "2. 领域/004_嵌入式硬件开发/PCB 设计流程与规范/四层板PCB Layout设计规范指导.md",
+    "2. 领域/004_嵌入式硬件开发/PCB 设计流程与规范/1. 原理图设计.md",
+    "2. 领域/004_嵌入式硬件开发/PCB 设计流程与规范",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/6. 流媒体服务器/REDAME.md",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/4. WebRTC 开发/images/tree.png",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/4. WebRTC 开发/images/radar.png",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/4. WebRTC 开发/images/gantt.png",
     "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/4. WebRTC 开发/嵌入式WebRTC系统学习计划.md",
-    "1. 项目/兆晟_RV1126B_智瞳/IPC统一软件框架架构设计.md",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/4. WebRTC 开发/REDAME.md",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/4. WebRTC 开发/images",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/4. WebRTC 开发",
+    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/3. 流媒体客户端/REDAME.md",
+    "2. 领域/003_嵌入式应用开发/2. Linux 高级应用编程/REDAME.md",
+    "2. 领域/001_嵌入式操作系统开发/文件系统裁剪.md",
     "1. 项目/兆晟_RV1126B_智瞳/images/04_ir_pipeline.png",
     "1. 项目/兆晟_RV1126B_智瞳/images/03_hal_mapping.png",
     "1. 项目/兆晟_RV1126B_智瞳/images/02_media_pipeline.png",
     "1. 项目/兆晟_RV1126B_智瞳/images/01_layered_architecture.png",
     "1. 项目/兆晟_RV1126B_智瞳/images",
-    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/4. WebRTC 开发/REDAME.md",
-    "2. 领域/001_嵌入式操作系统开发/001_嵌入式操作系统开发.README.md",
-    "2. 领域/001_嵌入式操作系统开发/文件系统裁剪.md",
-    "2. 领域/Template.md",
-    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/4. WebRTC 开发/resource/Pasted image 20260717131100.png",
-    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/4. WebRTC 开发/resource",
-    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/4. WebRTC 开发/images/tree.png",
-    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/4. WebRTC 开发/images/radar.png",
-    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/4. WebRTC 开发/images/gantt.png",
-    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/4. WebRTC 开发/images",
-    "1. 项目/兆晟_HM2/兆晟_HM2.README.md",
+    "1. 项目/兆晟_RV1126B_智瞳/IPC统一软件框架架构设计.md",
     "0. 周期笔记/2026/Daily/07/2026-07-25.md",
     "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/文件系统类型&分区格式.md",
-    "1. 项目/兆晟_D6P/一、项目基础信息.md",
     "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/resource/Pasted image 20260714221025.png",
-    "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/resource",
     "2. 领域/001_嵌入式操作系统开发/1. Linux 操作系统/a81f980be92bde96f02844b89b61082f.png",
+    "2. 领域/001_嵌入式操作系统开发/001_嵌入式操作系统开发.README.md",
     "-1. 捕获/Excalidraw/rv1126b_dts.md",
-    "-1. 捕获/Excalidraw/Drawing 2026-06-01 20.25.30.excalidraw.md",
-    "1. 项目/README.md",
-    "DarkOS_Note",
-    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/IOMMU/Rockchip_Developer_Guide_Linux_IOMMU_CN.pdf",
-    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/IOMMU",
-    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/IO-DOMAIN/Rockchip_Developer_Guide_Linux_IO_DOMAIN_CN.pdf",
-    "2. 领域/002_嵌入式Linux内核开发/RK-Docs/Common/IO-DOMAIN",
-    "1. 项目/Template.md",
-    "-1. 捕获/README.md",
-    "README.md",
-    "3. 资源/软考——系统架构设计师/考试介绍.md",
-    "3. 资源/软考——系统架构设计师/resource",
-    "3. 资源/软考——系统架构设计师/2. 结构化分析与设计.md",
-    "3. 资源/软考——系统架构设计师/1. 软件工程基础.md",
-    "3. 资源/创业/介绍.md",
-    "3. 资源/摄影摄像/摄影摄像.README.md",
-    "2. 领域/004_嵌入式硬件开发/SD卡与TF卡硬件电路设计.md",
-    "2. 领域/004_嵌入式硬件开发/004_嵌入式硬件开发.README.md",
-    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/视频防抖/IMU积分算法通读及说明.md",
-    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/5. 嵌入式音视频开发/交叉编译第三方库.md",
-    "2. 领域/003_嵌入式应用开发/3. 嵌入式音视频开发/5. 嵌入式音视频开发/MIPI CSI-2 规范深度分析.md",
+    "3. 资源/软考——系统架构设计师/resource/Pasted image 20260615151458.png",
     "主页.canvas",
     "未命名.canvas",
     "1. 项目/个人品牌-LifeOS-录制上手视频/视频教程大纲.canvas",
